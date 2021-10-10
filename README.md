@@ -1,2 +1,3 @@
 # PyQt5
-Welp this is a basic PyQt5 repo in witch i added some weather elements
+This will be a basic weather app with the scope of familiarizing myself with the PyQt5 Library
+The Weather app i definitly underperforming but still familarization
