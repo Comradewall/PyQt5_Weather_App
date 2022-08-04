@@ -114,7 +114,7 @@ class WeatherWindow(QWidget):
         others.AnalogRead(0)
         print(others.analogval)
     def MenuRefresh(self):
-        print("sugi sa mor io")
+        print("Not ready for usage yet.")
 
 class MainWindow(QMainWindow):
     def __init__(self):
